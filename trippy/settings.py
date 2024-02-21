@@ -85,9 +85,9 @@ DATABASES = {
         'ENGINE': 'djongo',
         'NAME': 'PDQA_database',
         "CLIENT":{
-            'host':'mongodb+srv://gs20020515:yNvDA6CHvslIdq9i@cluster0.ncalsqu.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp',
-            'username':'gs20020515',
-            'password':'yNvDA6CHvslIdq9i',
+            'host':'INSERT_YOUR_DATABASE',
+            'username':'INSERT NAME',
+            'password':'INSERT_YOUR PASSWORD',
         }
     }
 }
